@@ -1,0 +1,155 @@
+@media(max-width:700px){
+				#links{
+					display:none;
+					position: absolute;
+					background: #fff;
+					width:90%;
+					top: 100%;
+					left:5%;
+				}
+				#links li{
+				padding:10px;
+				}
+				
+				
+				.bi-list{
+				
+				display:inline-block;
+				}
+				.bi-x{
+				display:none;
+				}
+			
+			
+.banner{
+			flex-direction:column-reverse;
+			
+			}
+			.banner_img{
+			width:100%;
+			
+			}
+			.banner_para{
+			width:100%;
+			text-align:center;
+			}
+			
+		
+.about{
+			
+			flex-wrap:wrap;
+			
+			}
+			.about_img{
+			width:100%;
+			margin-bottom:20px;
+			}
+			.about_para{
+			width:100%;
+			padding:0;
+			}
+			
+			.icon i{
+			margin-bottom:60px;
+			}
+
+.count_col{
+			flex-wrap:wrap;
+			}
+			.count_title{
+			width:100%;
+			}
+			.count_title h1{
+			font-size:34px;
+			}
+			.col_box{
+			width:50%;
+			padding-bottom:20px;
+			}
+			
+.Client_img{
+			flex-wrap:wrap;
+			}
+			.client{
+			width:50%;
+			}
+			.col_img{
+			width:100%;
+			}
+
+.service_box{
+			flex-wrap:wrap;
+			}
+			.service_title{
+			width:100%;
+			}
+			.service_title h1{
+			font-size:34px;
+			}
+			.service_col{
+			width:100%;
+			padding-bottom:20px;
+			}			
+			
+.portfolio_col{
+			width:100%;
+			
+			}		
+			
+	
+.testimonials_img{
+			width:40%;
+			
+			}
+
+.team_row{
+			width:100%;
+			flex-direction:column;
+			gap:20px;
+			
+			}
+			.team_col{
+				width:100%;
+				
+			}
+
+.Gallery_col{
+			width:100%;
+			}
+
+
+.contact_details{
+			width:100%;
+			flex-direction:column;
+			}
+		
+			.contact_form{
+			width:100%;
+			}
+			.row1{
+			flex-direction:column;
+			gap:20px;
+			}
+			.contact_box{
+			width:100%;
+			}
+			
+			.contact_row{
+			width:100%;
+			}
+
+
+.Footer_row{
+			flex-direction:column;
+			gap:20px;
+			
+			}
+			.footer_col{
+			width:100%;
+			}
+
+.Final{
+			flex-direction:column;
+			text-align:center;
+			}			
+			}
